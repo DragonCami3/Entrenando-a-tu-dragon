@@ -1,0 +1,60 @@
+
+		body{
+			background: grey;
+			width: 1180px;
+            overflow:auto;
+            margin:auto;
+            border:10px solid darkgreen;
+            padding:20px;             
+		}
+		 
+
+		.grupo1{
+			font-family: Lucida Sans;
+			font-size: 2em;
+			color:white;
+			background: black;
+		}
+
+		
+		nav ul{
+			list-style: none;
+		}
+
+		nav ul li a{
+			text-decoration: none;
+			color: darkgreen;
+			background: ;
+		}
+
+		nav ul li a:hover{
+			text-decoration: underline;
+		} 
+
+		 h1, nav, .grupo2, #parrafo1 {
+		 	font-size: 1,5em;
+			font-family: Trebuchet MS;
+			color: white;
+        }
+
+        div{
+        	width: 900px;
+        	height: 250px;
+        	overflow: auto;
+        	margin: auto;
+        	border: 10px double darkgreen;        	
+        }
+
+        .imagen-izquierda{
+        	float: left;
+        	margin-right:20px;
+        	position: static;
+        	top: 80px;
+        	left: 10px;
+        	padding: 10px;
+        	}
+
+        .tip{
+			font-size: 0,5em;
+			color: skyblue;
+        }
